@@ -5,10 +5,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- $ about the focus prompt engine
+-  about the focus prompt engine
 
 <!---
 Sudh745/Sudh745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-* best cases of fake detection perform about the nlp(new language program)
+- best cases of fake detection perform about the nlp(new language program)
